@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoNoNGU&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNoNGU&layout=compact&theme=radical" height="180em" />
+</div>
+
+----
 <!--
 **NoNoNGU/NoNoNGU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
